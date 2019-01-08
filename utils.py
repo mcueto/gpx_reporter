@@ -1,7 +1,6 @@
 """utils module."""
 import json
 import gpxpy
-import gpxpy.gpx
 
 
 # Create MapPoint class
