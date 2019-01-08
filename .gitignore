@@ -103,6 +103,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# files folder
+# files folders
 files/*
 !files/.gitkeep
+
+output/*
+!output/.gitkeep
